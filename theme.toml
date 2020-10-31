@@ -15,3 +15,5 @@ min_version = "0.74.3"
   author = "Ankit Sultana"
   homepage = "https://github.com/ankitsultana"
   repo = "https://github.com/ankitsultana/researcher"
+  
+  https://github.com/ojroques/hugo-researcher.git themes/researcher
